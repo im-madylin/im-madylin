@@ -1,12 +1,12 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20)&height=300&section=header&text=Madylin's%20Github&fontSize=80" />
 
-Hi! I'm Madylin👋<br />
-I'm cadet of 42Seoul and i study computer programming. <br />
-Please contact me by e-mail below! <br />
-  💌<a href="mailto:im.madylin@gmail.com">Click!</a>💌
+𝑯𝒊! 𝑰'𝒎 𝑴𝒂𝒅𝒚𝒍𝒊𝒏👋<br />
+𝑰'𝒎 𝒄𝒂𝒅𝒆𝒕 𝒐𝒇 42𝑺𝒆𝒐𝒖𝒍 𝒂𝒏𝒅 𝒊 𝒔𝒕𝒖𝒅𝒚 𝒄𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈.<br />
+𝑷𝒍𝒆𝒂𝒔𝒆 𝒄𝒐𝒏𝒕𝒂𝒄𝒕 𝒎𝒆 𝒃𝒚 𝒆-𝒎𝒂𝒊𝒍 𝒃𝒆𝒍𝒐𝒘!<br />
+  💌<a href="mailto:im.madylin@gmail.com">𝑪𝒍𝒊𝒄𝒌</a>💌
 <br />
-
+<br />
 
 ##  <img  src="https://readme-components.vercel.app/api?component=text&text=42SEOUL&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 <br />
