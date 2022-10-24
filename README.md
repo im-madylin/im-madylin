@@ -1,10 +1,10 @@
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,18,20)&height=300&section=header&text=Madylin's%20Github&fontSize=80" />
 
-Hi! I'm Madylin.<br />
+Hi! I'm Madylin👋<br />
 I'm cadet of 42Seoul and i study computer programming. <br />
 Please contact me by e-mail below! <br />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:im.madylin@gmail.com" />
+  💌<a href="mailto:im.madylin@gmail.com">Click!</a>💌
 <br />
 
 
