@@ -8,7 +8,7 @@
 Nice to see you! I'm Hahyun 👋<br /><br />
 I'm cadet of 42Seoul.<br />
 I wanna be Front-End developer.<br /><br />
-<img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/><img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=white"/>
+<a href="mailto:im.madylin@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/><a href="https://im-madylin.tistory.com/"><img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=tistory&logoColor=white"/>
 
 <br />
 <br />
