@@ -16,7 +16,7 @@ I wanna be Front-End developer.<br /><br />
 ##  <img  src="https://readme-components.vercel.app/api?component=text&text=Github%20Stats&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=im-madylin&show_icons=true&theme=locale" width="400"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-madylin&layout=compact" >
+<img src="https://github-readme-stats.vercel.app/api?username=im-madylin&show_icons=true&theme=locale" width="400">
 
 <br />
 <br />
